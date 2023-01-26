@@ -1,0 +1,200 @@
+{
+  "items": [
+    {
+      "id": "2",
+      "requestIndex": 0,
+      "quantity": 1,
+      "seller": "1",
+      "sellerChain": ["1"],
+      "tax": 0,
+      "priceValidUntil": "2024-01-25T20:43:46Z",
+      "price": 26900,
+      "listPrice": 54800,
+      "rewardValue": 0,
+      "sellingPrice": 26900,
+      "offerings": [
+        {
+          "type": "Embalagem para presente",
+          "id": "103",
+          "name": "Embalagem para presente",
+          "allowGiftMessage": false,
+          "attachmentOfferings": [],
+          "price": 0
+        }
+      ],
+      "priceTags": [],
+      "measurementUnit": "un",
+      "unitMultiplier": 1.0,
+      "parentItemIndex": null,
+      "parentAssemblyBinding": null,
+      "availability": "withoutStock",
+      "catalogProvider": "vrn:vtex.catalog-api-proxy:-:lojaanimale:master:/proxy/authenticated/catalog/pvt/sku/stockkeepingunitbyid/2",
+      "priceDefinition": {
+        "calculatedSellingPrice": 26900,
+        "total": 26900,
+        "sellingPrices": [
+          {
+            "value": 26900,
+            "quantity": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "3",
+      "requestIndex": 1,
+      "quantity": 1,
+      "seller": "1",
+      "sellerChain": ["1"],
+      "tax": 0,
+      "priceValidUntil": "2024-01-25T20:43:46Z",
+      "price": 26900,
+      "listPrice": 54800,
+      "rewardValue": 0,
+      "sellingPrice": 26900,
+      "offerings": [
+        {
+          "type": "Embalagem para presente",
+          "id": "104",
+          "name": "Embalagem para presente",
+          "allowGiftMessage": false,
+          "attachmentOfferings": [],
+          "price": 0
+        }
+      ],
+      "priceTags": [],
+      "measurementUnit": "un",
+      "unitMultiplier": 1.0,
+      "parentItemIndex": null,
+      "parentAssemblyBinding": null,
+      "availability": "withoutStock",
+      "catalogProvider": "vrn:vtex.catalog-api-proxy:-:lojaanimale:master:/proxy/authenticated/catalog/pvt/sku/stockkeepingunitbyid/3",
+      "priceDefinition": {
+        "calculatedSellingPrice": 26900,
+        "total": 26900,
+        "sellingPrices": [
+          {
+            "value": 26900,
+            "quantity": 1
+          }
+        ]
+      }
+    }
+  ],
+  "ratesAndBenefitsData": null,
+  "paymentData": {
+    "installmentOptions": [],
+    "paymentSystems": [],
+    "payments": [],
+    "giftCards": [],
+    "giftCardMessages": [],
+    "availableAccounts": [],
+    "availableTokens": [],
+    "availableAssociations": {}
+  },
+  "selectableGifts": [],
+  "marketingData": {
+    "utmSource": null,
+    "utmMedium": null,
+    "utmCampaign": null,
+    "utmipage": null,
+    "utmiPart": null,
+    "utmiCampaign": "codigodavendedora",
+    "coupon": null,
+    "marketingTags": ["mvpsoma"]
+  },
+  "postalCode": "22070011",
+  "country": "BRA",
+  "logisticsInfo": [
+    {
+      "itemIndex": 0,
+      "addressId": null,
+      "selectedSla": null,
+      "selectedDeliveryChannel": null,
+      "quantity": 1,
+      "shipsTo": ["BRA"],
+      "slas": [],
+      "deliveryChannels": [
+        {
+          "id": "delivery"
+        }
+      ]
+    },
+    {
+      "itemIndex": 1,
+      "addressId": null,
+      "selectedSla": null,
+      "selectedDeliveryChannel": null,
+      "quantity": 1,
+      "shipsTo": ["BRA"],
+      "slas": [],
+      "deliveryChannels": [
+        {
+          "id": "delivery"
+        }
+      ]
+    }
+  ],
+  "messages": [
+    {
+      "code": "withoutStock",
+      "text": "O item Blusa Seda Estampa Lima Gold Estampado - 40 não tem estoque",
+      "status": "error",
+      "fields": {
+        "ean": "01052587000140",
+        "itemIndex": "1",
+        "skuName": "Estampado - 40"
+      }
+    },
+    {
+      "code": "withoutStock",
+      "text": "O item Blusa Seda Estampa Lima Gold Estampado - 38 não tem estoque",
+      "status": "error",
+      "fields": {
+        "ean": "01052587000138",
+        "itemIndex": "0",
+        "skuName": "Estampado - 38"
+      }
+    }
+  ],
+  "purchaseConditions": {
+    "itemPurchaseConditions": [
+      {
+        "id": "2",
+        "seller": "1",
+        "sellerChain": ["1"],
+        "slas": [],
+        "price": 26900,
+        "listPrice": 54800
+      },
+      {
+        "id": "3",
+        "seller": "1",
+        "sellerChain": ["1"],
+        "slas": [],
+        "price": 26900,
+        "listPrice": 54800
+      },
+      {
+        "id": "2",
+        "seller": "1",
+        "sellerChain": ["1", "animaleicarai"],
+        "slas": [],
+        "price": 26900,
+        "listPrice": 54800
+      },
+      {
+        "id": "3",
+        "seller": "1",
+        "sellerChain": ["1", "animaleicarai"],
+        "slas": [],
+        "price": 26900,
+        "listPrice": 54800
+      }
+    ]
+  },
+  "pickupPoints": [],
+  "subscriptionData": null,
+  "totals": [],
+  "itemMetadata": null
+}
